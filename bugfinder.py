@@ -10,9 +10,8 @@ import subprocess
 print """
 #######################################
 #                                     #
-#          PHP Script Bug Bulma       #  
-#            Coded by Hubeybi         #
-#        https://www.hubeybi.com      #
+#               Bug Finder            #  
+#          Coded by Baris Ayar        #
 #                                     #
 #######################################
 """
